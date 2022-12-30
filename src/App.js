@@ -1,4 +1,4 @@
-import { myFunction } from "./exercises/basic/005/index";
+import { myFunction } from "./exercises/basic/006/index";
 
 import "./scss/main.scss";
 
